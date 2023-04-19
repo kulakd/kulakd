@@ -1,7 +1,6 @@
 ### Hello there, I'm Dawid 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulakd&layout=compact)]
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulakd&layout=compact" />
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
