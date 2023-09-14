@@ -1,6 +1,12 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulakd&layout=pie)]
-### Hello there, I'm Dawid 👋
+## Hello there, I'm Dawid 👋
 
+I am a programmer who started my programming journey in 2018. I have been working professionally since 2021. I primarily work in a Windows environment, but I am also familiar with Linux.
+I specialize in .NET, web application development and data engineering.
+
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=kulakd&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulakd&count_private=true&layout=compact&theme=chartreuse-dark&langs_count=6" />
+
+## Languages, Frameworks and Tools
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
