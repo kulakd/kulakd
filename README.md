@@ -1,6 +1,6 @@
 ## Hello there, I'm Dawid 👋
 
-I am a programmer who started my programming journey in 2018. I have been working professionally since 2021. I primarily work in a Windows environment, but I am also familiar with Linux.
+I am a developer who started my programming journey in 2018. I have been working professionally since 2021. I primarily work in a Windows environment, but I am also familiar with Linux.
 I specialize in .NET, web application development and data engineering.
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=kulakd&count_private=true&show_icons=true&theme=chartreuse-dark" />
